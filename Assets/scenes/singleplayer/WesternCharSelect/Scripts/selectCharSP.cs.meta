@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 226ddd6d11dca4c32bc6082f3f72822d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - click: {fileID: 8300000, guid: 39f0c43c4504e43b38bc88564dcbcc27, type: 3}
+  - guy: {instanceID: 0}
+  - girl: {instanceID: 0}
+  - old: {instanceID: 0}
+  - dog: {instanceID: 0}
+  - robot: {instanceID: 0}
+  - spider: {instanceID: 0}
+  - car1: {instanceID: 0}
+  - car2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
